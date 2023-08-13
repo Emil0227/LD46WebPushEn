@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Some numbers are written on it：\n2020","effects":[],"hitType":0,"iconIndex":16,"itypeId":1,"name":"Sticky note","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
+]
